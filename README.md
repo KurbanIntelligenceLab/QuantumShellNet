@@ -24,7 +24,7 @@ This repository contains a unified training script for predicting molecule prope
     ```
 
 2. Install the required packages:
-    Install PyTorch via official webpage (https://pytorch.org/get-started/locally/). For the rest use the requirements.txt file
+    Install PyTorch, torchvision and numpy via official webpage of PyTorch (https://pytorch.org/get-started/locally/). For the rest use the requirements.txt file
     ```bash
     pip install -r requirements.txt
     ```
