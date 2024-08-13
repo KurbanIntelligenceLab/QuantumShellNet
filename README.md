@@ -19,12 +19,12 @@ This repository contains a unified training script for predicting molecule prope
 1. Clone the repository:
 
     ```bash
-    git clone git@github.com:CalciumNitrade/QuantumShellNet.git
+    git clone git@github.com:KurbanIntelligenceLab/QuantumShellNet.git
     cd QuantumShellNet
     ```
 
 2. Install the required packages:
-
+    Install PyTorch via official webpage (https://pytorch.org/get-started/locally/). For the rest use the requirements.txt file
     ```bash
     pip install -r requirements.txt
     ```
