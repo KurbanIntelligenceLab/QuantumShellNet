@@ -5,7 +5,7 @@ This repository contains a unified training script for predicting molecule prope
 
 ## Requirements
 
-- Python 3.9+
+- Python 3.10+
 - PyTorch
 - torchvision
 - numpy
