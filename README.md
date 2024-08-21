@@ -1,7 +1,7 @@
 # QuantumShellNet
-Official repo for the QuantumShellNet
+Official repo for the `QuantumShellNet: Ground-State Eigenvalue Prediction of Materials Using Electronic Shell Structures and Fermionic Properties via Convolutions` by Can Polat, Hasan Kurban, and Mustafa Kurban. 
 
-This repository contains a unified training script for predicting molecule properties using a deep learning model. The script supports training for single elements, molecules, and unseen elements using the `QuantumShellNet` model.
+This repository is built and maintained by Can Polat ([CalciumNitrade](https://github.com/CalciumNitrade)). The repository supports training for single elements, molecules, and unseen elements using the `QuantumShellNet` model.
 
 ## Requirements
 
